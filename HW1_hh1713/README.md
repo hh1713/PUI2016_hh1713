@@ -15,5 +15,8 @@ Avikal Somvanshi helped me with the problem - uploaded the screenshots in the co
   git push
 on the shell.
 
+##Assignment 3
+Received help from Avikal Somvanshi regarding the plotting part
+
 ![Screenshot 1 Assignment 2: my .bashrc](screenshot1.png)
 ![Screenshot 1 Assignment 2: my .bashrc](pwd_pui2016_pwd_screenshot.png)

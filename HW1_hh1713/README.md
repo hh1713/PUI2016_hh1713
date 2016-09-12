@@ -3,7 +3,9 @@
 ##Assignment 1
 Finished lab1 after figuring out how to connect via remote desktop (working on windows)
 Created a merge conflict and solved it
+
 Messed with Shay Lehmann's repository: shayle/gittest_sl5335
+
 Messed with Dana Karways respository: dlk253/gittest_dlk253
 
 ##Assignment 2

@@ -17,3 +17,4 @@ We had the idea that more people used citibike on weekdays (as more people commu
 Worked with CWorked with Christopher Streich and Nicola Macchitella on this assignment.
 If I understand z-values correctly the result tells me that the new mean is 2.5 standard deviations from the old mean and
 our null hypothesis must therefore be rejected based of the confidence level decided upon in the beginning.
+

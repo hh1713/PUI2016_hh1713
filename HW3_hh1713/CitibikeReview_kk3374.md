@@ -6,11 +6,12 @@ trips on the weekend, H0 is formulated correctly. However, HA is not included in
 ALTERNATIVE HYPOTHESIS = the average number of bike trips on a weekday is greater than the average number of bike trips on the
 weekend. 
 I may also add a mathematical formula to test:
+
 HO = weekday_biketrip_mean <= weekend_biketrip_mean
+
 HA = weekday_biketrip_mean > weekend_biketrip_mean
 
-2. Verify the datasets support the idea / project: does the dataset have appropriate variables to to answer the question? 
-Is the data pre-processed to extract necessary values?
+2. Verify the datasets support the idea / project: does the dataset have appropriate variables to to answer the question? Is the data pre-processed to extract necessary values?
 The dataset created supports the idea. I like that you created a new column in the dataframe to identify each date by a 
 numerical value associated with a day of the week. Your process and workflow were extremely clear and easy to read. You 
 counted the number of trips associated with each day and summed them and subsequently divided those totals by the total
@@ -19,3 +20,7 @@ number of weekdays and weekend days, 20 and 8 respectively, to calculate the ave
 3. Choose appropriate test to test H0 given the type of data and the type of question asked. 
 Based on the hypothesis, I would recommend that you use a t-test because you are testing a difference in means of two
 different groups of subjects. 
+
+In a traditional difference in means test, we reject the H0 if the difference in means is 0. If that is what you'd like to do then I recommend you use the two-tailed test, and simply modify your hypothesis to conclude that there is (or isn't) a statistically significant difference in means between weekday and weekend day ridership. However, since your hypothesis states that the average number of weekday trips is greater than (not simply different than) the weekend day trips, then I would recommend that you use a one-tailed t test. 
+
+

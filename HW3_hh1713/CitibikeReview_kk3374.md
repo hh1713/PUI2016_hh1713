@@ -1,4 +1,4 @@
-Hey Keli, here are my thoughts on your Citi Bike project. Very interesting and extremely well done!
+Hey Hrafnkell, here are my thoughts on your Citi Bike project. Very interesting and extremely well done!
 
 #### Verify the null and alternative hypotheses are formulated correctly:
 

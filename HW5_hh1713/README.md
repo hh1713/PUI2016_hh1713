@@ -1,4 +1,11 @@
+# Assignment 1
+Had a somewhat hard time understanding the working of the tests. Had discussions with Avikal Somvanshi and Geoff Perrin about it and they helped with my understanding. Did not have time to look into geopraphical location of rental stations for the extra credit assignment even though it did look interesting.
+
+# Assignment 2
+Worked with Nicola Macchitella on this assignment. We did not understand at first what we were asked to plot but when we did things went pretty smooth. The most complicated part of it for me was adding a fitted line through regular OLS regression.
+
 # Assignment 3
+Worked with Nicola Macchitella on this assignment.
 
 ### Do diets help lose more fat than exercise?
 #### H0: Diet doesn't help lose more fat than exercise

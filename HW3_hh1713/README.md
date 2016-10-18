@@ -1,4 +1,12 @@
+# Homework 1
+Had discussions with Avikal Somvanshi to better understand the KS test and the AD test. Looked into doing the extra credit but understanding (or trying to understand them) took longer time than anticipated. Would have been interesting, but quite possibly complicated, to run bike station coordinates against coordinates of zipcodes in New York and split the data geographically down to boroughs that way.
+
+# Homework 2
+Worked with Nicola Macchitella on this assignment.
+Figuring out what the data was telling us and finding a way to fit the OLS regressed line to the plotted data probably took the longest time.
+
 # Homework 3
+Worked with Nicola Macchitella on this assignment.
 
 ## Assignment 1
 Decided on all distributions so that the mean was 100 and also tried to have the same or similar std.

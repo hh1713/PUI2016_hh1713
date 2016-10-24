@@ -1,0 +1,2 @@
+# Assignment 1
+Worked on this assignment alone. Had a hard time figuring out why my boxpolots where being plotted all wrong but then realised that the number of outliers where messing them up completely.

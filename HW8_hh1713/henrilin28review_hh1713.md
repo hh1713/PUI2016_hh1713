@@ -1,4 +1,4 @@
-![Screenshot of cor215 graph](henrilin28_screenshot.png)
+![Screenshot of henrilin28 graph](henrilin28_screenshot.png)
 
 ### Plot Review
 Sooooo, you just made 10 different plots in two different notebooks. Thanks for making my life easy! Anyways I'm just going to look into one of the plots, not all 10. I'll review the one about unemployment in Texas as it happened to be the first plot in the first notebook I opened.

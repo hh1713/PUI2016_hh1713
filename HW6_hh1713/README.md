@@ -11,3 +11,5 @@ Kristi Korsberg showed me another way of fitting the 2nd degree polynomial and p
 Worked with Nicola Macchitella.
 
 Crunched the data so it could be used to answer our null hypothesis. Needed to be able to calculate the standard deviation on different days of the week to compare mean of number of rides on weekdays and weekends.
+
+# FBB Where is your authorea link!
